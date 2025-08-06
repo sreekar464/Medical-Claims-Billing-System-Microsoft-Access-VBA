@@ -1,0 +1,2 @@
+# Medical-Claims-Billing-System-Microsoft-Access-VBA
+Designed 5 relational tables for Patients, Doctors, Treatments, Claims, and Billing.• Developed 4 interactive VBA-driven forms for claim entry,billing automation,and validation•Wrote 6 SQL queries for monthly revenue,unpaid bills,and claim status analytics•Applied VBA logic to auto-calculate out-of-pocket dues and prevent duplicate policy entries. 
